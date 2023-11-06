@@ -1,0 +1,9 @@
+div.container-fluid {
+	background-color: green;
+	border: 4px solid grey;
+}
+div.col {
+	border: 4px solid grey;
+	height: 200px;
+	background-color: green;
+}
